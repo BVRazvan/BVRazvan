@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @BVRazvan
-- 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning C/Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -> bogdanvrazvan@gmail.com
+3rd year computer engineering student @ University Politehnica of Bucharest.
+Interested in operating systems, low-level programming, competitive programming, cybersecurity.
 
 <!---
 BVRazvan/BVRazvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
