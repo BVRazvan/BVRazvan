@@ -1,4 +1,4 @@
-- 3rd year computer engineering student @ University Politehnica of Bucharest.
+- 4th year computer engineering student @ University Politehnica of Bucharest.
 - Interested in operating systems, low-level programming, competitive programming, cybersecurity.
 
 <!---
