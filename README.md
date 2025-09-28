@@ -1,4 +1,4 @@
-- 4th year computer engineering student @ University Politehnica of Bucharest.
+- 1st year MSc CS student @ ETH Zurich.
 - Interested in operating systems, low-level programming, competitive programming, cybersecurity.
 
 <!---
